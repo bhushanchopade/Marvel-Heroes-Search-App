@@ -1,17 +1,14 @@
-# SuperHero-Hunter App
+# Marval Heroes Search App
 
 # Git Clone
 To use this repository in your local system-
-Git clone : https://github.com/bhushanchopade/SuperHero-Hunter-App.git
+Git clone : https://github.com/bhushanchopade/Marvel-Heroes-Search-App.git
 
 
-# PRODUCT DEMO
-<a href="https://bhushanchopade.github.io/SuperHero-Hunter-App/"> <b> Demo Link </b> </a><br>
-
+# PRODUCT DEMO : https://tceour.csb.app/
 
 
 
-To do go the app, here is a link : https://bhushanchopade.github.io/SuperHero-Hunter-App/
 
 <li>This is a repository for SuperHero App using Vanilla JavaScript, HTML, CSS.</li>
 <br>
